@@ -1,0 +1,12 @@
+[
+  { "name":"Classic Fm", "link":"http://media-ice.musicradio.com/ClassicFMMP3" },
+  { "name":"Radio Malta 1", "link":"http://s38.myradiostream.com:6982" },
+  { "name":"One Radio", "link":"http://s10.voscast.com:8202/stream" }, 
+  { "name":"Radju Marija", "link":"http://dreamsiteradiocp2.com:8096" },
+  { "name":"Magic", "link":"http://s46.myradiostream.com:6076" },
+  { "name":"RTK", "link":"https://s2.radio.co/s955b1ced9/listen" },
+  { "name":"Campus", "link":"http://campusfm.radioca.st/campusfm_live" },
+  { "name":"calypso", "link":"http://s4.radio.co/sf3aa4c25a/listen" },
+  { "name":"Net", "link":"http://s2.voscast.com:11392/stream1532088939752/1" },
+  { "name":"Bkara", "link":"http://stream.bkr.mt:90/;" }
+]
