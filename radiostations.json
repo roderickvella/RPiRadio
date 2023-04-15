@@ -1,6 +1,6 @@
 [
   { "name":"Classic Fm", "link":"http://media-ice.musicradio.com/ClassicFMMP3" },
-  { "name":"Radio Malta 1", "link":"https://s38.myradiostream.com/:6982/;" },
+  { "name":"Radio Malta 1", "link":"http://s38.myradiostream.com/:6982/;" },
   { "name":"One Radio", "link":"http://s10.voscast.com:8202/stream" }, 
   { "name":"Radju Marija", "link":"http://dreamsiteradiocp2.com:8096" },
   { "name":"Magic", "link":"http://s46.myradiostream.com:6076" },
